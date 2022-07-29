@@ -1,5 +1,6 @@
 #Predicting Titanic Surviror Project
 #by Ringgold P. Atienza
+#July 29, 2022
 
 ################################################################################
 #Install packages and load dataset
