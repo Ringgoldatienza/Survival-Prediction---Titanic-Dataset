@@ -1,1 +1,1 @@
-Hi! This is my take on one of the most popular competitions in Kaggle. While this dataset has been analyzed for thousands of time, I did my own flavor by using least square estimates in imputating missing data. I used Random Forest algorithm for my final prediction.
+Hi! This is my take on one of the most popular competitions in Kaggle. While this dataset has been analyzed for thousands of time, I did my own flavor by using least square estimates in imputating missing data. I used Random Forest algorithm as my prediction algorithm.
